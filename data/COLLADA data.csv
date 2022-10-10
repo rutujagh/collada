@@ -1,0 +1,508 @@
+Bug No,Summary,Platform,Status,Priority,Due Date,Resolved,Resolution,Created,Labels,Description
+1,Unable to login,Android-app,To Do,3,13/04/2021,,,23/04/21 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+2,Login validation not working,Android-app,Done,3,13/04/2021,14/04/2021,Done,20/04/21 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+3,This is a sub task,IOS-app,To Do,3,13/04/2021,,,13/04/21 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+4,This is a sub task,Android-app,In Progress,3,13/04/2021,,,13/04/21 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+5,This is a sub task,Android-app,To Do,3,13/04/2021,,,13/04/21 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+6,Another bug in the code,Android-app,In Progress,3,13/04/2021,,,13/04/21 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+7,This is a sub task,IOS-app,To Do,3,13/04/2021,,,13/04/21 15:40,backend,This is the description of my issues. Instructions to use this csv will come here.
+8,One more bug,Android-app,Done,3,13/04/2021,15/04/2021,Done,13/04/21 15:40,UI,This is the description of my issues. Instructions to use this csv will come here.
+9,Sub task second,Android-app,Done,3,14/04/2021,17/04/2021,Done,13/04/21 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+10,Sub task third,IOS-app,To Do,3,14/04/2021,,,13/04/21 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+11,Sub task third,IOS-app,In Progress,3,14/04/2021,,,13/04/21 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+12,Sub task fourth,IOS-app,To Do,3,14/04/2021,,,13/04/21 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+13,Too many bugs,IOS-app,To Do,3,14/04/2021,,,6/5/2021 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+14,Bugs are annoying,IOS-app,In Progress,1,14/04/2021,,,16/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+15,Great task,Android-app,To Do,2,14/04/2021,,,11/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+16,So many tasks,Android-app,To Do,2,14/04/2021,,,12/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+17,Launch Android app,Android-app,Done,2,14/04/2021,14/04/2021,Done,12/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+18,Launch iOS app,IOS-app,Done,1,15/04/2021,14/04/2021,Done,15/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+19,As a user this is my story,Android-app,In Progress,1,15/04/2021,,Done,12/5/2021 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+20,As a user this another story,Android-app,Done,1,15/04/2021,18/04/2021,Done,20/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+21,Bug are endless,IOS-app,Done,1,15/04/2021,18/04/2021,Done,23/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+22,A new task,Android-app,Done,2,15/04/2021,18/04/2021,Done,22/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+23,A bug,Android-app,In Progress,3,15/04/2021,,,20/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+24,overviewscreen keeps loading,Android-app,To Do,1,15/04/2021,,,20/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+25,"From advance filter select material and include,
+ it shows a blank red alert message. ",IOS-app,To Do,1,15/04/2021,,,23/04/21 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+26,The Issuer name is not shown in the list ,Android-app,Done,2,15/04/2021,15/04/2021,Done,20/04/21 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+27,Creating Jobcard is showing the error message ,Android-app,Done,2,15/04/2021,15/04/2021,Done,13/04/21 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+28,"While inserting same material in the
+ Material tab, it shows blank red alert ",IOS-app,In Progress,1,15/04/2021,18/04/2021,,13/04/21 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+29,"Created new user and on click view and click on edit 
+option, the screen loads continuously.",IOS-app,In Progress,1,17/04/2021,20/04/2021,,13/04/21 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+30,Edit screen loads continuously ,IOS-app,In Progress,1,17/04/2021,20/04/2021,,13/04/21 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+31,"user dropdown shows ""[Object][Object]"".",IOS-app,To Do,3,17/04/2021,20/04/2021,,13/04/21 15:40,backend,This is the description of my issues. Instructions to use this csv will come here.
+32," In the Overview, selected show entries 
+count 20 or 30, on rest in the advance filter shows
+ 10 records.",Android-app,Done,3,17/04/2021,16/04/2021,Done,13/04/21 15:40,UI,This is the description of my issues. Instructions to use this csv will come here.
+33,"For the first time login into an application after clearing all the 
+cache and hard reload, the back buttonnot visible",Android-app,Done,3,18/04/2021,16/04/2021,Done,13/04/21 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+34,"edit user not working, throws blank error",Android-app,To Do,3,18/04/2021,,,13/04/21 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+35,edit screen loads continuously ,Android-app,To Do,3,18/04/2021,,,13/04/21 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+36,serving old format image,IOS-app,To Do,3,18/04/2021,,,13/04/21 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+37,New UI is not shown,Android-app,To Do,1,18/04/2021,,,6/5/2021 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+38,Login icon broken on homepage,Android-app,In Progress,2,18/04/2021,,,16/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+39,Login is taking more than 1 minute,IOS-app,To Do,1,18/04/2021,,,11/5/2021 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+40,Confirmation popup doesnot closes on cancel,Android-app,To Do,1,18/04/2021,,,12/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+41, Android app  error,Android-app,Done,2,18/04/2021,18/04/2021,Done,12/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+42,Andriod app is stuck on view page,IOS-app,Done,3,18/04/2021,18/04/2021,Done,15/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+43,Username check fails,IOS-app,Done,3,18/04/2021,18/04/2021,Done,12/5/2021 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+44,"passwod is non mandatory field, it is a mandatory field",IOS-app,Done,1,18/04/2021,21/04/2021,Done,20/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+45,reset button doesnot works,Android-app,Done,2,18/04/2021,18/04/2021,Done,23/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+46,passsord allows SQL injection,IOS-app,Done,1,19/04/2021,18/04/2021,Done,22/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+47,UI is not dynamic,Android-app,In Progress,1,19/04/2021,,,20/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+48,Password takes more than 99+ characcters,IOS-app,To Do,3,19/04/2021,,,23/04/21 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+49,Unable to login,Android-app,To Do,3,19/04/2021,,,23/04/21 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+50,Login validation not working,Android-app,Done,2,19/04/2021,22/04/2021,Done,20/04/21 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+51,unable to signup,IOS-app,To Do,1,19/04/2021,22/04/2021,,13/04/21 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+52,This is a sub task,Android-app,To Do,3,19/04/2021,22/04/2021,,13/04/21 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+53,Cancel button not working,IOS-app,In Progress,2,19/04/2021,22/04/2021,,13/04/21 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+54,Admin cannot edit product in the code,IOS-app,In Progress,1,20/04/2021,,,13/04/21 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+55,pannel loooks cut from the right,IOS-app,To Do,1,21/04/2021,,,13/04/21 15:40,backend,This is the description of my issues. Instructions to use this csv will come here.
+56,Alignment issue in overview page,IOS-app,Done,1,21/04/2021,20/04/2021,Done,13/04/21 15:40,UI,This is the description of my issues. Instructions to use this csv will come here.
+57,Login icon broken on homepage,IOS-app,Done,1,21/04/2021,20/04/2021,Done,13/04/21 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+58,API issue in create user,IOS-app,To Do,1,21/04/2021,,,13/04/21 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+59,unable to add new item to cart,Android-app,To Do,1,21/04/2021,,,13/04/21 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+60,User role issue,Android-app,To Do,3,22/04/2021,,,13/04/21 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+61,Redirection to wrong page after login,Android-app,To Do,3,22/04/2021,,,6/5/2021 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+62,Modals cannot be closed,Android-app,In Progress,3,22/04/2021,,,16/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+63,Size of all the modals should be same,Android-app,To Do,3,22/04/2021,,,11/5/2021 16:57,WI,This is the description of my issues. Instructions to use this csv will come here.
+64,Button size should be consistent,Android-app,To Do,2,22/04/2021,,,12/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+65,Payment Issue,Android-app,Done,2,22/04/2021,22/04/2021,Done,12/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+66,backbutton icon broken,IOS-app,Done,2,22/04/2021,22/04/2021,Done,15/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+67,share as PDF issue feature not working,Android-app,Done,2,23/04/2021,22/04/2021,Done,12/5/2021 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+68,Login banner is covering the login buttton,Android-app,Done,3,23/04/2021,22/04/2021,Done,20/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+69,User Module issue,IOS-app,Done,3,24/04/2021,22/04/2021,Done,23/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+70,Search bar fetature in overview not working,Android-app,Done,3,24/04/2021,22/04/2021,Done,22/05/21 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+71,UI is broken in android app,Android-app,In Progress,3,24/04/2021,,,20/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+72,like option not working,Android-app,To Do,3,24/04/2021,,,20/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+73,3D view not working,IOS-app,To Do,3,24/04/2021,,,23/04/21 17:02,UI,This is the description of my issues. Instructions to use this csv will come here.
+74,issue in design format,Android-app,To Do,3,24/04/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+75,email notification not working,Android-app,Done,3,24/04/2021,23/04/2021,Done,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+76,Wrong dates being displayed,IOS-app,To Do,3,25/04/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+77,Dropdown not consistent in all the pages,IOS-app,To Do,3,25/04/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+78,hint text not working,IOS-app,To Do,3,25/04/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+79,Another bug in the code,IOS-app,In Progress,3,25/04/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+80,console error on page reload,IOS-app,To Do,3,25/04/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+81,Creating useris showing the error message ,Android-app,Done,1,25/04/2021,25/04/2021,Done,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+82,"Created new user and on click view and click on edit option,
+ the screen loads continuously.",Android-app,Done,2,26/04/2021,22/04/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+83,Back button is redirected to the view screen.,Android-app,To Do,2,26/04/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+84,"For the same email used again,can be updated successfully.",IOS-app,To Do,2,26/04/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+85,Delete user is showing the error alert message.,Android-app,To Do,1,26/04/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+86,"In Roles, User Access screen loads continuously.",Android-app,To Do,1,27/04/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+87," if their is no Approver user, it is not showing any messages ",IOS-app,In Progress,1,27/04/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+88,"The toaster message for Insert, update and delete should show error message",Android-app,To Do,1,27/04/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+89,Duplicate Code can be inserted in the user list.,Android-app,To Do,2,27/04/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+90,The description column is not shown in the userlist.,Android-app,Done,3,27/04/2021,22/04/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+91,loader is not shown in edit user,IOS-app,Done,1,27/04/2021,26/04/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+92,The user dropdown record is getting duplicated.,Android-app,In Progress,1,27/04/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+93,The headers must be consistent for all the pages,Android-app,To Do,2,28/04/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+94,"In audit screen, the back button and close buttons are not aligned properly.",IOS-app,To Do,2,28/04/2021,,,13-04-2022 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+95,Updated Latest Need By date is resetting to blank,IOS-app,To Do,1,28/04/2021,,,23-04-2022 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+96,The Updated Date should be shown in the Audit Report.,IOS-app,Done,1,28/04/2021,22/04/2021,Done,20-04-2022 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+97,"When user login in to an application the continue button is allowed to select 
+without selecting any of the project.",IOS-app,To Do,1,30/04/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+98,"User can be created and updated by using same email id, no validation is shown.",Android-app,Done,3,30/04/2021,22/04/2021,Done,5/12/2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+99,"User is able to add the same Role and Project as many times in the
+ user information screen.",Android-app,Done,3,30/04/2021,22/04/2021,Done,15-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+100,The hand cursor is not shown on delete option in the Add Role table,Android-app,Done,3,30/04/2021,22/04/2021,Done,5/12/2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+101,"Add to list is enabled, without selecting any Role and Project In the user Information.",Android-app,Done,3,30/04/2021,22/04/2021,Done,20-05-2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+102,The newly created User names are not shown in the user list.,IOS-app,Done,3,30/04/2021,22/04/2021,Done,23-05-2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+103, user is not able to see any details in the overview,Android-app,Done,3,30/04/2021,22/04/2021,Done,22-05-2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+104,"On click Go Back Button, the user is not able to login to the application.",Android-app,In Progress,1,30/04/2021,,,20-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+105,"Added user Information, On refresh, not able to add to list the selected role and Project.",IOS-app,To Do,2,30/04/2021,,,13-04-2022 15:40,backend,This is the description of my issues. Instructions to use this csv will come here.
+106,cancel button is triggering an error message,Android-app,Done,1,30/04/2021,22/04/2021,Done,13-04-2022 15:40,UI,This is the description of my issues. Instructions to use this csv will come here.
+107,Download document trigggering an error,Android-app,Done,1,1/5/2021,22/04/2021,Done,13-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+108,Document is not being printed successfully,IOS-app,To Do,2,1/5/2021,,,13-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+109,"Not able to add the user, it shows user already exists.",IOS-app,To Do,3,1/5/2021,,,13-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+110,Create & edit revision is not working.,IOS-app,To Do,3,2/5/2021,,,13-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+111,No users are shown in the users list.,Android-app,To Do,1,3/5/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+112,dashboard not found,IOS-app,To Do,2,3/5/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+113,User Information screen stops loading and loads after 10 seconds,Android-app,To Do,1,3/5/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+114,"Login as issuer, side menu not visible",IOS-app,To Do,1,3/5/2021,,,5/11/2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+115,User record cannot be deleted,Android-app,To Do,3,5/5/2021,,,5/12/2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+116,the selected Order Numbers are not aligned properly inside the field.,Android-app,In Progress,3,5/5/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+117,revision screen loads contionously,IOS-app,To Do,2,5/5/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+118,Reset is not working for the selected order numbers in the advance filter.,Android-app,Done,1,5/5/2021,5/5/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+119,"In advance filter search,For the selected  order numbers the search result
+ is showing incorrect result",IOS-app,To Do,3,5/5/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+120,Save button not working,IOS-app,To Do,2,5/5/2021,,,15-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+121,Text mandatory message not shown,IOS-app,To Do,1,5/5/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+122,"On click save, the shows blank red toaster messge.",IOS-app,,,5/5/2021,,,,UI,
+123,"On removing  order number, the save red alert is not shown.",IOS-app,,,5/5/2021,,,,UI,
+124,Not able to create the recod.It shows an error alert message.,IOS-app,,,6/5/2021,,,,UI,
+125,recdirection from user list not correct,Android-app,,,6/5/2021,,,,UI,
+126,This is a sub task,Android-app,To Do,1,6/5/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+127,Launch Android app,Android-app,Done,3,6/5/2021,5/5/2021,Done,5/12/2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+128,Launch iOS app,Android-app,Done,3,6/6/2021,5/5/2021,Done,15-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+129,As a user this is my story,Android-app,Done,3,6/6/2021,5/5/2021,Done,5/12/2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+130,A new task,Android-app,Done,3,6/7/2021,5/5/2021,Done,22-05-2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+131,A bug,Android-app,In Progress,1,6/7/2021,,,20-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+132,This is a sub task,IOS-app,To Do,2,6/7/2021,,,13-04-2022 15:40,backend,This is the description of my issues. Instructions to use this csv will come here.
+133,Design task,Android-app,To Do,1,6/8/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+134,Great task,Android-app,To Do,1,6/8/2021,,,5/11/2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+135,A new task,Android-app,Done,3,6/8/2021,6/5/2021,Done,22-05-2022 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+136,Dispaly chart,Android-app,To Do,2,6/8/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+137,Dispaly chart all ,Android-app,To Do,2,7/4/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+138,Sub task first,Android-app,To Do,2,7/4/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+139,Sub task second,IOS-app,Done,2,7/4/2021,7/4/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+140,Sub task third,IOS-app,In Progress,2,7/5/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+141,Add button ,Android-app,To Do,2,7/6/2021,,,,,
+142,On click add show the add details,Android-app,To Do,2,7/6/2021,,,,,
+143,check for mandatory,Android-app,To Do,2,8/6/2021,,,,,
+144,click on save,Android-app,To Do,2,8/6/2021,,,,,
+145,edit user,Android-app,To Do,2,8/7/2021,,,,,
+146,Observe the editted user,Android-app,To Do,2,8/7/2021,,,,,
+147,update user,Android-app,To Do,2,8/7/2021,,,,,
+148,delete user,Android-app,To Do,2,8/7/2021,,,,,
+149,add duplicates ,Android-app,To Do,2,8/7/2021,,,,,
+150,add bulk data,Android-app,To Do,2,8/7/2021,,,,,
+151,Unable to login,Android-app,To Do,3,10/7/2021,,,7/6/2021 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+152,Business objects not working,Android-app,Done,3,11/7/2021,11/7/2021,Done,7/6/2021 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+153,This is a sub task,IOS-app,To Do,3,12/7/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+154,This is a sub task,Android-app,In Progress,3,13/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+155,This is a sub task,Android-app,To Do,3,14/07/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+156, Logger information class,Android-app,Done,2,15/07/2021,11/7/2021,Done,7/6/2021 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+157,This is a sub task,IOS-app,To Do,2,16/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+158,This is a sub task,Android-app,In Progress,2,17/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+159,This is a sub task,Android-app,To Do,2,18/07/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+160,Bugs are annoying,IOS-app,In Progress,1,20/07/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+161,Great task,Android-app,To Do,1,20/07/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+162,So sealed class tasks,Android-app,To Do,2,20/07/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+163,Bug are endless,Android-app,Done,3,20/07/2021,20/07/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+164,Loading dashboard RatePerSlot Issue ,IOS-app,To Do,2,21/07/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+165,Sub task first calculation,Android-app,Done,1,21/07/2021,21/07/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+166,Sub task second calculation,IOS-app,To Do,3,21/07/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+168,Sub task third calculation,IOS-app,To Do,2,21/07/2021,,,15-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+169,Sub task fourth  calculation,IOS-app,To Do,1,21/07/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+170,Bugs are annoying,IOS-app,In Progress,1,22/07/2021,,,16/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+171,Great task,Android-app,To Do,2,22/07/2021,,,11/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+172,So many tasks,Android-app,To Do,2,22/07/2021,,,12/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+173,Launch Android app,Android-app,Done,2,22/07/2021,22/07/2021,Done,12/5/2021 16:57,backend,This is the description of my issues. Instructions to use this csv will come here.
+174,Freequency,IOS-app,In Progress,1,22/07/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+175,Registration_Date Issue,IOS-app,In Progress,1,23/07/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+176,WM_Asset_Update_Test stored procedure,Android-app,To Do,3,24/07/2021,,,7/6/2021 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+177,Stored procedure input parameters,Android-app,Done,3,24/07/2021,24/07/2021,Done,7/6/2021 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+178,Connection to stored procedure,IOS-app,To Do,3,24/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+179,Time out for connection,Android-app,In Progress,3,25/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+180,Jion Table in stored procedure,Android-app,To Do,3,25/07/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+181,Enter Mobile OTP,Android-app,In Progress,3,25/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+182,PostBackTrigger,Android-app,To Do,3,25/07/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+183,City Dropdown,IOS-app,To Do,1,26/07/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+184,State DropDown ,IOS-app,,,26/07/2021,,,,,
+185,Country DropDown,IOS-app,,,26/07/2021,,,,,
+186,UserControls,IOS-app,In Progress,1,27/07/2021,,,########,UI,
+187,WM_Ast_NetworkBillBoard_Edit,Android-app,To Do,1,27/07/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+188,AppSettings for connection,Android-app,To Do,2,27/07/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+189,HyperLink working checked,Android-app,Done,3,27/07/2021,27/07/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+190,MultiView display page,IOS-app,To Do,2,27/07/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+191,WM_Welcome For mao,Android-app,Done,1,28/07/2021,28/07/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+192,AUTHENTICATE For Login,IOS-app,To Do,3,28/07/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+193,ValidationGroup for Textboxs,IOS-app,To Do,2,28/07/2021,,,15-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+194,GetData Values for Users,IOS-app,To Do,1,28/07/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+195,Session UserNameDisplay,IOS-app,In Progress,1,28/07/2021,,,16/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+196,WM_Login Design change,IOS-app,In Progress,1,28/07/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+197,This is a sub task,IOS-app,To Do,2,28/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+198,This is a sub task,Android-app,In Progress,2,28/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+199,This is a sub task,Android-app,To Do,2,28/07/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+200,Bug are endless,Android-app,Done,3,28/07/2021,28/07/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+201,Product Use Case Definition,IOS-app,To Do,2,29/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+202,Business Requirements,Android-app,In Progress,2,29/07/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+203,Launch Schedule,Android-app,To Do,2,29/07/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+204,Launch Event Plan,Android-app,Done,3,29/07/2021,29/07/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+205,Product Strategy,Android-app,Done,1,1/8/2021,1/8/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+206,Regional Strategies,IOS-app,To Do,3,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+207,Regional Pricing Plans,IOS-app,To Do,2,1/8/2021,,,15-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+208,Regional Packages,IOS-app,To Do,1,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+209,Investment Review 💵,IOS-app,To Do,1,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+210,Datasheets,Android-app,In Progress,3,1/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+211,Website Design and Development,Android-app,To Do,3,1/8/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+212,Web & Mobile Site Design,Android-app,In Progress,3,1/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+213,Web & Mobile Site Development,Android-app,To Do,3,1/8/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+214,Sales Materials Plan,IOS-app,To Do,1,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+215,Presentation Framework,IOS-app,,,1/8/2021,,,,,
+216,Demo Plan,IOS-app,To Do,3,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+217,Demo Script,IOS-app,To Do,2,1/8/2021,,,15-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+218,Demo Website Content,IOS-app,To Do,1,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+219,Demo Videos,IOS-app,To Do,3,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+220,Click Button “New Custom Field”,IOS-app,To Do,2,1/8/2021,,,15-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+221,Go to Manage Custom Fields,IOS-app,To Do,1,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+222,Sign Up Form Validations,IOS-app,To Do,2,1/8/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+223,Checklist Item Order,Android-app,Done,1,1/8/2021,1/8/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+224,Task Details User Scenarios,IOS-app,To Do,3,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+225,Contact Web Page Error,IOS-app,To Do,1,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+226,Sign Up Form Validations,IOS-app,To Do,3,1/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+227,Event Date,Android-app,To Do,2,1/8/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+228,Localisation,Android-app,To Do,2,1/8/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+229,Ojective of event,IOS-app,Done,2,1/8/2021,1/8/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+230,Development Staff Involved,IOS-app,In Progress,2,1/8/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+231,Response Card,IOS-app,In Progress,2,1/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+232,Saving throws an error,Android-app,In Progress,3,2/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+233,Can't export PDF,Android-app,To Do,3,2/8/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+234,User cannot print,Android-app,In Progress,3,2/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+235,Schema update,IOS-app,To Do,3,2/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+236,Search A relation in the Connector.,IOS-app,To Do,1,2/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+237,Select relation.,IOS-app,To Do,3,2/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+238,"The Connector tab contains search fields,",Android-app,Done,1,2/8/2021,2/8/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+239,missing a button here to clear all fields,IOS-app,To Do,3,2/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+240,Credit card approval notifications delayed by longer than expected,IOS-app,To Do,3,2/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+241,Setup SSL certificate,IOS-app,To Do,2,2/8/2021,,,15-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+242,Add Google ad Sense,IOS-app,To Do,1,2/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+243,Main page Still,IOS-app,To Do,2,2/8/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+244,Css/Js cached ,Android-app,Done,1,2/8/2021,2/8/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+245,Allow login with OpenID,IOS-app,To Do,1,2/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+246,Website loading slowly on 10min,Android-app,To Do,1,2/8/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+247,Login icons brokenon Homepage,Android-app,To Do,2,2/8/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+248,Serving old format images,Android-app,Done,3,2/8/2021,2/8/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+249,Website Crashing at credit card collection,Android-app,To Do,1,2/8/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+250,Code Module Issue,Android-app,To Do,2,2/8/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+251,User Access Issue,Android-app,In Progress,3,3/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+252,Server Memory Issue,Android-app,To Do,3,3/8/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+253,Cost Management,Android-app,To Do,1,3/8/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+254,"Schedule,outcomes",Android-app,To Do,2,3/8/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+255,Action Item,IOS-app,To Do,2,3/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+256,Tracking,Android-app,In Progress,2,3/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+257,Issue Tracking,Android-app,To Do,2,3/8/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+258,Admin cannot edit product details,Android-app,In Progress,2,3/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+259,User cannot start a conversation,Android-app,Done,1,3/8/2021,3/8/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+260,Unable to add new item to cart,IOS-app,To Do,3,3/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+261,Definition of performance metrics,IOS-app,To Do,3,3/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+262,Completing the post the product,IOS-app,To Do,1,3/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+263,Gif design for page loading,IOS-app,In Progress,1,3/8/2021,,,########,UI,
+264,Preparing Q1 performance metrics,Android-app,To Do,1,3/8/2021,3/8/2021,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+265,Presentation regarding the improvements,Android-app,Done,1,3/8/2021,3/8/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+266,Bug fixes on the dashboard,IOS-app,To Do,3,3/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+267,SWOT Analysis,IOS-app,To Do,1,3/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+268,Performance metrics,Android-app,In Progress,3,3/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+269,Banner is covering,IOS-app,To Do,3,3/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+270,Pop-ups cannot be color,IOS-app,To Do,2,3/8/2021,,,15-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+271,Homepage is not working,IOS-app,To Do,1,3/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+272,Payment Error,IOS-app,In Progress,1,3/8/2021,,,16/05/21 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+273,Report header fix,IOS-app,In Progress,1,3/8/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+274,mail title revision,Android-app,To Do,2,3/8/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+275,Vendor response time needs improvement,Android-app,To Do,2,3/8/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+276,selected solution inputs are not compatible,IOS-app,To Do,3,3/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+277,The auto-save feature is not working as expected,Android-app,To Do,2,3/8/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+278,In-product link does not work,Android-app,To Do,2,3/8/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+279,User Acceptance Test Plan,Android-app,To Do,3,4/8/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+280,User Acceptance Test Report,Android-app,To Do,1,4/8/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+281,User Interface Checklist,IOS-app,To Do,2,4/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+282,Web Usability Test Report,Android-app,In Progress,2,4/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+283,Test Script,IOS-app,To Do,1,4/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+284,Test Script Allocation Form,IOS-app,To Do,2,4/8/2021,,,14-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+285,Training Course Evaluation Form,Android-app,Done,1,4/8/2021,4/8/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+286,Training Requirements Form,Android-app,To Do,3,4/8/2021,,,7/6/2021 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+287,Unit Test Plan,Android-app,In Progress,3,4/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+288,Status Report,IOS-app,To Do,3,4/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+289,Test Plan Template,IOS-app,To Do,2,4/8/2021,,,15-04-2022 15:39,UI,This is the description of my issues. Instructions to use this csv will come here.
+290,Test Plan Review Checklist,Android-app,In Progress,3,4/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+291,Test Plan Task Preparation,Android-app,Done,1,4/8/2021,2/8/2021,Done,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+292,Test Problem Record,IOS-app,To Do,1,4/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+293,Business Approval Checklist Form,Android-app,In Progress,3,4/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+294,Business Approval Form,Android-app,To Do,1,4/8/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+295,Change Control Form,Android-app,To Do,2,4/8/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+296,Change Control Log,IOS-app,To Do,1,4/8/2021,,,15-04-2022 15:39,backend,This is the description of my issues. Instructions to use this csv will come here.
+297,Change Request Form,Android-app,In Progress,3,4/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+298,Contract Review Form,IOS-app,To Do,2,4/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+299,Acceptance Test Plan,Android-app,In Progress,2,4/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+300,Action Item Log,Android-app,In Progress,3,4/8/2021,,,7/6/2021 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+301,The risk at the different page ,IOS-app,In Progress,1,1/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+302,The risk at duplicate screen ,IOS-app,To Do,1,1/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+303,Redirection of add,Android-app,To Do,1,1/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+304,The Risk at the duplicate page ,IOS-app,To Do,1,1/9/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+305,Added new icon,IOS-app,In Progress,1,1/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+306,Redirection of view screen ,Android-app,In Progress,2,2/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+307,Redirection of edit screen ,IOS-app,In Progress,2,2/9/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+308,Redirction of link ,IOS-app,In Progress,2,2/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+309,Redirction of link one,Android-app,Done,2,2/9/2021,3/9/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+310,Redirection of link two,IOS-app,Done,2,2/9/2021,4/9/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+311,Logo is missing,Android-app,Done,2,3/9/2021,5/9/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+312,Module names are not aligned properly ,IOS-app,Done,2,3/9/2021,6/9/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+313,On click link the page is redirecting to some other page ,Android-app,Done,1,3/9/2021,7/9/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+314,Header name is not aligned properly,Android-app,In Progress,2,3/9/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+315,Tool tips is to be provided ,IOS-app,To Do,2,4/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+316,On hover the tool tip is not displayed,IOS-app,In Progress,1,4/9/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+317,On click the popup is not shown ,Android-app,Done,1,4/9/2021,7/9/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+318,Click on ok the screen is not loading,IOS-app,To Do,2,4/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+319,On click cancel the screen loads ,Android-app,To Do,1,5/9/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+320,The menu is not aligned ,Android-app,Done,3,5/9/2021,8/9/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+321,The submenu should be shown on click down arrow ,Android-app,To Do,1,5/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+322,Hide or unhide the menu,IOS-app,In Progress,2,5/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+323,Toggle bar ,Android-app,To Do,3,5/9/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+324,Switch on ,Android-app,In Progress,2,5/9/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+325,Switch off,Android-app,To Do,1,6/9/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+326,Table header is not aligned,IOS-app,In Progress,3,6/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+327,Column names,Android-app,Done,3,6/9/2021,9/9/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+328,number series ,Android-app,To Do,3,6/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+329,Search field ,Android-app,To Do,3,7/9/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+330,Enter Valid search key word,Android-app,To Do,2,7/9/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+331,Enter invalid search keyword ,IOS-app,Done,3,7/9/2021,9/9/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+332,Search result,Android-app,Done,3,7/10/2021,9/9/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+333,Advance filter,IOS-app,Done,2,8/10/2021,10/9/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+334,Reset and then search is not working,Android-app,In Progress,3,8/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+335,The drodown field data is not displayed,IOS-app,In Progress,2,8/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+336,Search no record found ,IOS-app,Done,3,8/10/2021,10/9/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+337,Pagination ,Android-app,Done,3,8/10/2021,11/9/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+338,Pagination count on search is showing incorrectly,IOS-app,In Progress,2,9/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+339,Show entries ,Android-app,In Progress,3,9/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+340,Show entries shows dropdown,IOS-app,In Progress,2,9/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+341,show entries based on paginantion ,Android-app,Done,1,9/10/2021,10/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+342,the list view,Android-app,Done,2,10/10/2021,10/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+343,check box ,IOS-app,Done,1,10/10/2021,10/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+344,Import function,Android-app,Done,2,10/10/2021,10/10/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+345,Importing one data,IOS-app,In Progress,3,10/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+346,Exporting multiple data,IOS-app,To Do,3,10/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+347,Verifiying the duplication of data,Android-app,Done,2,11/10/2021,12/10/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+348,Dashboard cards,IOS-app,To Do,2,11/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+349,Count of each defects,Android-app,In Progress,1,11/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+350,Count of total ,Android-app,To Do,2,11/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+351,Data validation ,IOS-app,Done,3,11/10/2021,12/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+352,Add new value and the toaster message ,Android-app,To Do,3,12/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+353,Save updated successfully message on click save,IOS-app,In Progress,2,12/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+354,Edit newly added value and update then it is not showing ,IOS-app,In Progress,3,12/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+355,"Delete the value, tosater message is not shown",Android-app,To Do,1,12/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+356,Home icon is not placed,IOS-app,To Do,1,12/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+357,The backtrop color is showing blank,IOS-app,In Progress,2,13/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+358,help button is to be provided ,Android-app,In Progress,2,13/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+359,Category/Product Pages,IOS-app,To Do,3,13/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+360,Money Transfer can be done,IOS-app,Done,3,13/10/2021,14/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+361,Account Statement can be viewed,Android-app,To Do,1,13/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+362,Deposit/Recurring Deposit can be created,IOS-app,To Do,1,14/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+363,Colors of the fonts.,IOS-app,To Do,2,14/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+364,"Colors of the error messages, warning messages.",IOS-app,To Do,3,14/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+365,Whether the image has good clarity or not,Android-app,In Progress,3,14/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+366,Alignment of the images.,IOS-app,To Do,2,15/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+367,User must not get frustrated while using the system interface,Android-app,Done,1,15/10/2021,16/10/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+368,Whether the interface is attractive or not.,IOS-app,Done,2,15/10/2021,16/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+369,Scrollbars according to the size of the page if any.,IOS-app,To Do,2,15/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+370,Disabled fields if any,Android-app,In Progress,1,15/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+371,Size of the images,IOS-app,Done,2,16/10/2021,17/10/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+372,Headings whether it is properly aligned or not,IOS-app,To Do,1,16/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+373,Color of the hyperlink,IOS-app,In Progress,1,16/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+374,The text box with the label “Source Folder” is aligned properly.,Android-app,To Do,2,16/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+375,Text box with the label “Package” is aligned properly,IOS-app,In Progress,1,16/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+376,Label with the name “Browse” is a button which is located at the end ,IOS-app,To Do,2,17/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+377,Label “Modifiers” consists of 4 radio buttons which are not aligned properly in a row.,IOS-app,Done,2,17/10/2021,18/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+378,Proper error generated if something has been mistakenly chosen,IOS-app,In Progress,2,17/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+379,The error must be generated in the RED color wherever it is necessary.,Android-app,In Progress,2,18/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+380,That proper labels must be used in the error messages,IOS-app,Done,1,18/10/2021,19/10/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+381,The single radio buttons must be selected by default every time,Android-app,In Progress,2,18/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+382,TAB button must be work properly while jumping on another field next to previous.,IOS-app,Done,1,18/10/2021,19/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+383,All the pages must contain the proper title,Android-app,Done,1,18/10/2021,19/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+384, The page text must be properly aligned,IOS-app,In Progress,2,19/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+385,After updating any field a proper confirmation message must be displayed,Android-app,In Progress,2,19/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+386,Only 1 radio button must be selected and more than single checkboxes may be selected.,Android-app,To Do,1,19/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+387,"Size, position, width, height of the elements.",IOS-app,In Progress,1,20/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+388,The error messages that are getting displayed.,Android-app,In Progress,2,20/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+389,The font whether it is readable or not.,IOS-app,To Do,1,20/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+390,validation not provided in signup form,IOS-app,Done,1,30/10/2021,30/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+391,Fill out all user information fields,Android-app,In Progress,1,30/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+392,error on save button,Android-app,To Do,2,30/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+393,colum name must be changed in user list,IOS-app,To Do,2,30/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+394,Alignment of PDF is nor proper,IOS-app,To Do,1,31/10/2021,,,,UI,This is the description of my issues. Instructions to use this csv will come here.
+395,Navigation to user menu not working properly,IOS-app,Done,1,31/10/2021,30/10/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+396,numeric keys in description not working,IOS-app,To Do,1,31/10/2021,,,,backend,This is the description of my issues. Instructions to use this csv will come here.
+397,text box in view page not aligned properly,Android-app,Done,3,31/10/2021,8/11/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+398,Dropdown  design to be changes,Android-app,Done,3,31/10/2021,8/11/2021,Done,,UI,This is the description of my issues. Instructions to use this csv will come here.
+399,link to user manual  not working,Android-app,Done,3,31/10/2021,12/11/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+400,The Risk at the same page ,Android-app,Done,3,31/10/2021,13/11/2021,Done,,backend,This is the description of my issues. Instructions to use this csv will come here.
+401,"When the user end date is lesser than todays date , User is able to login to an application.",Android-app,Done,3,1/11/2021,30/10/2021,Done,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+402,Wrong dates being displayed in order list,IOS-app,To Do,3,1/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+403,Dropdownin order page shows wrong values,IOS-app,To Do,3,1/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+404,description box should be changed to text area,IOS-app,To Do,3,1/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+405,in View screen all the fields must be read only,IOS-app,In Progress,3,1/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+406,Description is editable in view screen,IOS-app,To Do,3,2/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+407,Table header should be consistent in edit and view scree ,Android-app,Done,1,2/11/2021,4/11/2021,Done,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+408,Created new user  the screen loads continuously.,Android-app,Done,2,2/11/2021,4/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+409,Back button is not redirected properly,Android-app,To Do,2,2/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+410,Scrollbar design should be changes,IOS-app,To Do,2,2/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+411,Color of the text label should consistent in all the pages,Android-app,To Do,1,4/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+412, User View screen loads continuously.,Android-app,To Do,1,4/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+413,notification message not shown,IOS-app,In Progress,1,4/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+414,"The toaster message for Insert, update and delete order should show error message",Android-app,To Do,1,4/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+415,duplicate order can be inserted,Android-app,To Do,2,4/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+416,Header field not consistent,Android-app,Done,3,7/11/2021,6/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+417,loader is not shown in approve list,IOS-app,Done,1,7/11/2021,7/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+418,The user dropdown showing wrong record ,Android-app,In Progress,1,7/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+419,Startdate and end date not shown properly,Android-app,To Do,2,8/11/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+420,The Import list table column header name should be consistent as shown in the tab.,IOS-app,To Do,2,8/11/2021,,,13-04-2022 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+421,Alignment in View screen is nor proper,IOS-app,To Do,1,8/11/2021,,,23-04-2022 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+422,User should have one role for one project role while mapping role with the project.,IOS-app,Done,1,8/11/2021,8/11/2021,Done,20-04-2022 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+423,Enterbutton not working in description field,IOS-app,To Do,1,8/11/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+424,"In role access screen, under Jobcard tabs menu for the work order shows blank.",Android-app,Done,3,10/4/2021,8/11/2021,Done,5/12/2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+425,Dropdown not shown in advance search,Android-app,Done,3,10/4/2021,8/11/2021,Done,15-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+426,the user manual not updated,Android-app,Done,3,11/11/2021,12/11/2021,Done,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+427,User data is inncorrect,IOS-app,To Do,3,12/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+428,Order list is not aligned properly,IOS-app,To Do,3,12/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+429,description field must be consistent,IOS-app,To Do,3,12/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+430,user profile picture not visble,IOS-app,In Progress,3,12/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+431,cant see user detatils ,IOS-app,To Do,3,12/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+432,Logout is taking much time,Android-app,Done,1,17/11/2021,18/11/2021,Done,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+433,help button not aligned properly in header section,Android-app,Done,2,17/11/2021,19/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+434,Role switching  must be provided beside logout button,Android-app,To Do,2,17/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+435,Spelling mistake in username label,IOS-app,To Do,2,17/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+436,serach showing wrong result,Android-app,To Do,1,17/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+437,clear button not working,Android-app,To Do,1,17/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+438,revert revision not working,IOS-app,In Progress,1,17/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+439,view revision screen loads continuosly,Android-app,To Do,1,17/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+440,duplicate codes can be updated,Android-app,To Do,2,17/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+441,inactive records can be shown is order list,Android-app,Done,3,20/11/2021,20/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+442,loader is not shown in order list,IOS-app,Done,1,20/11/2021,20/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+443,The user dropdown record changed screen loads continuosly,Android-app,In Progress,1,20/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+444,Add or Edit User the screen loads continously by showing blank red toaster message.,Android-app,To Do,2,20/11/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+445, table column header name should be consistent as shown in the tab.,IOS-app,To Do,2,20/11/2021,,,13-04-2022 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+446,error message in view screen must be changed,IOS-app,To Do,1,20/11/2021,,,23-04-2022 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+447,"The description field shows ""Null"" in the View screen.",IOS-app,Done,1,20/11/2021,20/11/2021,Done,20-04-2022 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+448,Tab button not working in description field,IOS-app,To Do,1,21/11/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+449,"In role screen,  menu for the  order shows blank.",Android-app,Done,3,21/11/2021,21/11/2021,Done,5/12/2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+450,Dropdown not shown in user search,Android-app,Done,3,21/11/2021,21/11/2021,Done,15-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+451,Code Module Issue,IOS-app,In Progress,3,21/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+452,User Access Issue,IOS-app,To Do,3,21/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+453,Server memory Issue,Android-app,Done,1,21/11/2021,21/11/2021,Done,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+454,Insert logging,Android-app,Done,2,21/11/2021,21/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+455,validation display,Android-app,Done,3,21/11/2021,20/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+458,Site Survey,IOS-app,Done,1,21/11/2021,21/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+459,Bad JSON data coming back,Android-app,In Progress,1,21/11/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+460,500 Error when requesting,Android-app,To Do,2,21/11/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+461,Upload Images,Android-app,Done,3,21/11/2021,21/11/2021,Done,15-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+462,Upload Images Design ,IOS-app,In Progress,3,21/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+463,ERP Issues,Android-app,Done,2,21/11/2021,21/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+464,ERPSales Issues,Android-app,Done,3,21/11/2021,21/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+465,ERP Profit,IOS-app,Done,1,21/11/2021,21/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+466,PDF option,Android-app,Done,3,21/11/2021,21/11/2021,Done,15-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+467,Student Registration Form ,IOS-app,In Progress,3,21/11/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+468,Result For Total Calculation ,Android-app,Done,3,21/11/2021,21/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+469,Textbox value display ,IOS-app,Done,1,21/11/2021,21/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+470,Master Dashboard Display,Android-app,Done,3,21/11/2021,21/11/2021,Done,15-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+471,Mobile number Checked,Android-app,To Do,2,21/11/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+472,Submit Value check,Android-app,Done,3,21/11/2021,21/11/2021,Done,15-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+473,Multi-Select dropdown not working,Android-app,Done,2,21/11/2021,21/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+474,Gridview count,Android-app,Done,3,21/11/2021,21/11/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+475,validation for data not given,Android-app,Done,3,1/12/2021,1/12/2021,Done,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+476,start date cannot be greater than end date,IOS-app,To Do,3,1/12/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+477,Dropdownin order page shows wrong values,IOS-app,To Do,3,1/12/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+478,import functionality not working,IOS-app,To Do,3,1/12/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+479,Export functionality not working,IOS-app,In Progress,3,1/12/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+480,Pagination issue in user list,IOS-app,To Do,3,1/12/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+481,toggle switch in user screen not working,Android-app,Done,1,1/12/2021,1/12/2021,Done,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+482,Select all checkbox in dropdown not working,Android-app,Done,2,2/12/2021,4/12/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+483,cannot uncheck the checkbox in user list,Android-app,To Do,2,2/12/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+484,Phusion link is not redirecting correctly,IOS-app,To Do,2,2/12/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+485,Color of the text label should consistent in all the pages,Android-app,To Do,1,4/12/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+486, User View screen data inconsistent,Android-app,To Do,1,4/12/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+487,notification email not triggered,IOS-app,In Progress,1,4/12/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+488,"The toaster message for Insert, update and delete order should show error message",Android-app,To Do,1,4/12/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+489,tiptool to be provided in view user,Android-app,To Do,2,4/12/2021,,,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+490,Count of records in user list is not correct,Android-app,Done,3,7/12/2021,7/12/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+491,loader is not shown in order list,IOS-app,Done,1,7/12/2021,7/12/2021,Done,########,backend,This is the description of my issues. Instructions to use this csv will come here.
+492,The user dropdown not displaying any record ,Android-app,In Progress,1,7/12/2021,,,########,UI,This is the description of my issues. Instructions to use this csv will come here.
+493,import CSV not working,Android-app,To Do,2,8/12/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+494,Export CSV functionality the screen keeps on loading,IOS-app,To Do,2,8/12/2021,,,13-04-2022 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
+495,import excel not working,IOS-app,To Do,1,8/12/2021,,,23-04-2022 17:02,backend,This is the description of my issues. Instructions to use this csv will come here.
+496,Export excel functionality the screen keeps on loading,IOS-app,Done,1,8/12/2021,8/12/2021,Done,20-04-2022 15:25,UI,This is the description of my issues. Instructions to use this csv will come here.
+497,space button not working in description field,IOS-app,To Do,1,8/12/2021,,,13-04-2022 15:46,backend,This is the description of my issues. Instructions to use this csv will come here.
+498,upload profile picture not working,Android-app,Done,3,8/12/2021,8/12/2021,Done,5/12/2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+499,PDF option to be provided,Android-app,Done,3,8/12/2021,8/12/2021,Done,15-05-2022 16:57,UI,This is the description of my issues. Instructions to use this csv will come here.
+500,Radio button is not working,IOS-app,To Do,2,8/12/2021,,,13-04-2022 15:46,UI,This is the description of my issues. Instructions to use this csv will come here.
